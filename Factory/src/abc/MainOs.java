@@ -9,6 +9,7 @@ public class MainOs {
 		OperatingSys obj=os.getInstance("closed");
 		
 		obj.spec();
+		System.out.println("hello");
 		
 	}
 	
